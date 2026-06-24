@@ -1,0 +1,18 @@
+.grill_scene {
+    position: relative;
+    width: 800px;
+    height: 600px;
+}
+#grill {
+    position: absolute;
+    left: 400px;
+    top: 150px;
+    width: 200px;
+}
+#smoke {
+    position: absolute;
+    left: 460px;
+    top: 100px;
+    width:100px;
+    z-index: 2;
+}
