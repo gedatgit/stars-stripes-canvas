@@ -1,18 +1,36 @@
 .grill_scene {
     position: relative;
-    width: 800px;
-    height: 600px;
+    width: 600px;
+    height: 400px;
 }
 #grill {
     position: absolute;
-    left: 400px;
-    top: 150px;
-    width: 200px;
+    left: 800px;
+    top: 250px;
+    width: 500px;
 }
 #smoke {
     position: absolute;
-    left: 460px;
+    left: 950px;
     top: 100px;
-    width:100px;
+    width: 250px;
     z-index: 2;
 }
+
+/* .games {
+    position: relative;
+    top: 100px;
+
+    width: 20px;
+    height: 20px;
+} */
+
+#cornhole {
+    position: relative;
+    top: 280px;
+    left: 400px;
+    width: 100px;
+
+}
+
+
